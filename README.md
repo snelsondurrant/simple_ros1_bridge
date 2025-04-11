@@ -1,6 +1,8 @@
-## Simple ROS 1 Bridge Guide
+[Preparation](https://github.com/snelsondurrant/simple_ros1_bridge?tab=readme-ov-file#preparation)
 
-This guide outlines the steps to set up and run a containerized bridge between ROS 1 Noetic and ROS 2 Humble. It allows for the inclusion of custom message types.
+[Building and Testing the Bridge](https://github.com/snelsondurrant/simple_ros1_bridge?tab=readme-ov-file#building-and-testing-the-bridge)
+
+[Running the Bridge](https://github.com/snelsondurrant/simple_ros1_bridge?tab=readme-ov-file#running-the-bridge)
 
 --
 
